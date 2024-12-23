@@ -1,0 +1,9 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/OshadiPalliyaguruge/ITCare-Insight-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/OshadiPalliyaguruge/ITCare-Insight-Backend.git
+[submodule "Model"]
+	path = Model
+	url = https://github.com/OshadiPalliyaguruge/ITCare-Insight-Model.git
